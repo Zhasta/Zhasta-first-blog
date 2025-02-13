@@ -182,3 +182,20 @@ nav .nav-link li a:hover {
     margin-right: 8px;
 }
 
+
+@media (max-width: 768px) {
+    .content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .content img {
+        width: 80%;
+        height: auto;
+    }
+
+    .content .text {
+        max-width: 90%;
+    }
+}
+
