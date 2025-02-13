@@ -12,23 +12,6 @@ body{
 
 }
 
-@media (max-width: 768px) {
-    nav {
-        flex-direction: column;
-        text-align: center;
-        padding: 15px;
-    }body {
-        font-size: 16px;
-    }
-
-    .content h2 {
-        font-size: 30px;
-    }
-
-    .content p {
-        font-size: 18px;
-    }
-
 nav{
     background: #3C3D37;
     color: white;
